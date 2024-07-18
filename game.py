@@ -1,6 +1,5 @@
 import random
 import json
-from tk_inter_ver.models import Question, Player
 
 def load_questions(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
