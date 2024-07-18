@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "answers": {
+        "a": "Central Processing Unit",
+        "b": "Computer Personal Unit",
+        "c": "Central Process Unit",
+        "d": "Central Processor Unit"
+      },
+      "correct_answer": "Central Processing Unit"
+    },
+    {
+      "question": "In programming, what does OOP stand for?",
+      "answers": {
+        "a": "Object-Oriented Programming",
+        "b": "Order of Operations",
+        "c": "Output of Program",
+        "d": "Operator Overloading Process"
+      },
+      "correct_answer": "Object-Oriented Programming"
+    },
+    {
+      "question": "What is the purpose of SQL?",
+      "answers": {
+        "a": "To style web pages",
+        "b": "To manage and query databases",
+        "c": "To create dynamic web content",
+        "d": "To develop mobile applications"
+      },
+      "correct_answer": "To manage and query databases"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "answers": {
+        "a": "Hyper Text Markup Language",
+        "b": "High Tech Modern Language",
+        "c": "Hyper Transfer Markup Language",
+        "d": "Home Tool Markup Language"
+      },
+      "correct_answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which of these is not a programming language?",
+      "answers": {
+        "a": "Java",
+        "b": "Python",
+        "c": "HTML",
+        "d": "C++"
+      },
+      "correct_answer": "HTML"
+    },
+    {
+      "question": "What is the primary function of an operating system?",
+      "answers": {
+        "a": "To provide a user interface",
+        "b": "To manage hardware resources",
+        "c": "To run applications",
+        "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+    },
+    {
+      "question": "What does GUI stand for in computing?",
+      "answers": {
+        "a": "Graphical User Interface",
+        "b": "General User Interaction",
+        "c": "Guided User Input",
+        "d": "Generated User Interface"
+      },
+      "correct_answer": "Graphical User Interface"
+    },
+    {
+      "question": "Which data structure uses LIFO?",
+      "answers": {
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Tree"
+      },
+      "correct_answer": "Stack"
+    },
+    {
+      "question": "What is the purpose of a firewall in computer networks?",
+      "answers": {
+        "a": "To prevent unauthorized access",
+        "b": "To increase internet speed",
+        "c": "To store data",
+        "d": "To cool down the computer"
+      },
+      "correct_answer": "To prevent unauthorized access"
+    },
+    {
+      "question": "Which of these is a version control system?",
+      "answers": {
+        "a": "Git",
+        "b": "SQL",
+        "c": "HTTP",
+        "d": "FTP"
+      },
+      "correct_answer": "Git"
+    }
+  ]
+}
